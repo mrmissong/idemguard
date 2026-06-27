@@ -1,4 +1,4 @@
-# idemguard
+# IdemGuard
 
 `idemguard` is a Go HTTP middleware for protecting retry-prone APIs from duplicate side effects.
 
